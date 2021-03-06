@@ -1,0 +1,13 @@
+C:\Users\ASUS X510Q\source\repos\my_farm_v1\my_farm_v1\obj\Debug\netcoreapp3.1\my_farm_v1.csprojAssemblyReference.cache
+C:\Users\ASUS X510Q\source\repos\my_farm_v1\my_farm_v1\obj\Debug\netcoreapp3.1\my_farm_v1.AssemblyInfoInputs.cache
+C:\Users\ASUS X510Q\source\repos\my_farm_v1\my_farm_v1\obj\Debug\netcoreapp3.1\my_farm_v1.AssemblyInfo.cs
+C:\Users\ASUS X510Q\source\repos\my_farm_v1\my_farm_v1\obj\Debug\netcoreapp3.1\my_farm_v1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS X510Q\source\repos\my_farm_v1\my_farm_v1\bin\Debug\netcoreapp3.1\my_farm_v1.exe
+C:\Users\ASUS X510Q\source\repos\my_farm_v1\my_farm_v1\bin\Debug\netcoreapp3.1\my_farm_v1.deps.json
+C:\Users\ASUS X510Q\source\repos\my_farm_v1\my_farm_v1\bin\Debug\netcoreapp3.1\my_farm_v1.runtimeconfig.json
+C:\Users\ASUS X510Q\source\repos\my_farm_v1\my_farm_v1\bin\Debug\netcoreapp3.1\my_farm_v1.runtimeconfig.dev.json
+C:\Users\ASUS X510Q\source\repos\my_farm_v1\my_farm_v1\bin\Debug\netcoreapp3.1\my_farm_v1.dll
+C:\Users\ASUS X510Q\source\repos\my_farm_v1\my_farm_v1\bin\Debug\netcoreapp3.1\my_farm_v1.pdb
+C:\Users\ASUS X510Q\source\repos\my_farm_v1\my_farm_v1\obj\Debug\netcoreapp3.1\my_farm_v1.dll
+C:\Users\ASUS X510Q\source\repos\my_farm_v1\my_farm_v1\obj\Debug\netcoreapp3.1\my_farm_v1.pdb
+C:\Users\ASUS X510Q\source\repos\my_farm_v1\my_farm_v1\obj\Debug\netcoreapp3.1\my_farm_v1.genruntimeconfig.cache
